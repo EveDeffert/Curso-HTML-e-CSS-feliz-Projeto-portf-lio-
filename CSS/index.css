@@ -1,0 +1,9 @@
+header {
+    background-color: var(--secundary-color);
+}
+
+a{
+    color: var(--quaternary--color);
+    font-size: 20px
+  }
+  
